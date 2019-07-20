@@ -1,6 +1,6 @@
 <?php
 //SCRIPT NYA JGN DI OTAK-ATIK NANTI ERROR
-//Date: 12-06-2019
+//Date: 12-06-2017
 //Fitur: Generator NIK & KK
 //Author: Manja_Anymous
 @ini_set('output_buffering',0);
