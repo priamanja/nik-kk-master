@@ -7,7 +7,7 @@ $ pkg update
 $ pkg upgrade
 $ pkg install php
 $ pkg install git
-$ git clone https://github.com/HnRanonymous/generator-nik-kk-master
+$ git clone https://github.com/priamanja/gnik-kk-master
 $ cd generator-nik-kk-master
 $ ls
 $ php index.php
